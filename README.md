@@ -1,2 +1,1 @@
-# Prodigy
-Internship Project
+Personal portfolio website Using HTML,CSS and javascript
