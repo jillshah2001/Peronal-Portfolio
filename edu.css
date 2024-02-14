@@ -263,12 +263,6 @@ p {
 	animation-delay: 2.5s;
 }
 /* End Hero Section */
-#hero .hero img{
-	display: flex;
-    padding: 25px 520px;
-    font-size: 16px;
-	mix-blend-mode: multiply;
-}
 /* Services Section */
 #services .services {
 	flex-direction: column;
