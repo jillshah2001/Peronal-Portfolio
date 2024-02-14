@@ -264,13 +264,10 @@ p {
 }
 /* End Hero Section */
 #hero .hero img{
-	display: inline-block;
-    color: black;
+	display: flex;
     padding: 25px 520px;
     font-size: 16px;
-    margin-top: 20px;
-    border-radius: 5px;
-
+	mix-blend-mode: multiply;
 }
 /* Services Section */
 #services .services {
